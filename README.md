@@ -1,7 +1,7 @@
 ![Header](https://github.com/vshigimoto/vshigimoto/blob/main/vshoko.png)
 
 ## I'm beginner Python developer
-student Astana IT University, in the second year of study
+student of Astana IT University, in the second year of study
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-<COLOR>?style=for-the-badge&logo=python)
