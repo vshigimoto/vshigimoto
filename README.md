@@ -1,7 +1,18 @@
 ![Header](https://github.com/vshigimoto/vshigimoto/blob/main/vshoko.png)
-
-## I'm beginner Python developer
-student of Astana IT University, in the second year of study
+<h1 align='center'> Welcome to my page ⭐ </h1>
+<p align='center'>I'm Amirkhan, junior python developer, student at Astana IT University (2nd year of study) </p>
+</p>
+<p align='center'>
+<a href="https://www.linkedin.com/in/amirkhan-mubarakov-%F0%9F%92%BB-6a91b2275/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
+  <a href="https://leetcode.com/vshigimoto/">
+        <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=LeetCode" alt="LeetCode">
+    </a>
+  <a href="https://t.me/vshooko">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="LeetCode">
+    </a>
+</p>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +31,3 @@ student of Astana IT University, in the second year of study
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)
-
-### Follow me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vshooko)
