@@ -1,6 +1,6 @@
 ![Header](https://github.com/vshigimoto/vshigimoto/blob/main/vshoko.png)
 <h1 align='center'> Welcome to my page ⭐ </h1>
-<p align='center'>I'm Amirkhan, junior python developer, student at Astana IT University (2nd year of study) </p>
+<p align='center'>I'm Amirkhan, junior golang developer, student at Astana IT University (3nd year of study) </p>
 </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/amirkhan-mubarakov-%F0%9F%92%BB-6a91b2275/">
