@@ -17,13 +17,11 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### DataBases
 ![Postgersql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Technologies
-![Djangp](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=whit)
 ![Docker](https://img.shields.io/badge/-Docker-00599C?style=for-the-badge&logo=docker)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -31,3 +29,4 @@
 ### OS
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=for-the-badge&logo=windows)
+![MacOS](https://img.shields.io/badge/-MacOS-purple?style=for-the-badge&logo=apple)
