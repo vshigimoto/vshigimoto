@@ -3,14 +3,11 @@
 <p align='center'>I'm Amirkhan, Golang developer </p>
 </p>
 <p align='center'>
-<a href="https://www.linkedin.com/in/amirkhan-mubarakov-%F0%9F%92%BB-6a91b2275/">
+<a href="https://www.linkedin.com/in/amirkhan-mubarakov-6a91b2275/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
   <a href="https://leetcode.com/vshigimoto/">
         <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>
-  <a href="https://t.me/vshooko">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="LeetCode">
     </a>
 </p>
 
