@@ -1,6 +1,6 @@
 ![Header](https://github.com/vshigimoto/vshigimoto/blob/main/vshoko.png)
 <h1 align='center'> Welcome to my page ⭐ </h1>
-<p align='center'>I'm Amirkhan, Golang developer </p>
+<p align='center'>I'm Amirkhan, Software Engineer </p>
 </p>
 <p align='center'>
 <a href="https://www.linkedin.com/in/amirkhan-mubarakov-6a91b2275/">
